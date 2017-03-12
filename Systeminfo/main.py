@@ -8,6 +8,7 @@ import platform
 def main():
     print(platform.platform())
     return
+print("hi")
 
 
 if __name__ == '__main__':
