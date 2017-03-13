@@ -8,7 +8,7 @@ import platform
 def main():
     print(platform.platform())
     return
-print("hi")
+print("h")
 
 
 if __name__ == '__main__':
